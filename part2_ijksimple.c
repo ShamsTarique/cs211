@@ -99,7 +99,7 @@
       } 
       
    
-      printf("Simple triple loop (ikj) algorithm went through %f seconds to complete running and the matrix had a  maximum difference of %f \n",((float)time0)/CLOCKS_PER_SEC, max_diff_of_matrix);
+      printf("Simple triple loop (ikj) algorithm went through %f seconds to complete running and the matrix had a  maximum difference of %.16f \n",((float)time0)/CLOCKS_PER_SEC, max_diff_of_matrix);
      
       
        
@@ -134,7 +134,7 @@
           } 
       } 
    
-      printf("Simple triple loop (jik) algorithm went through %f seconds to complete running and the matrix had a  maximum difference of %f \n",((float)time0)/CLOCKS_PER_SEC, max_diff_of_matrix);
+      printf("Simple triple loop (jik) algorithm went through %f seconds to complete running and the matrix had a  maximum difference of %.16f \n",((float)time0)/CLOCKS_PER_SEC, max_diff_of_matrix);
      
       
       
@@ -171,7 +171,7 @@
           } 
       } 
    
-      printf("Simple triple loop (jki) algorithm went through %f seconds to complete running and the matrix had a  maximum difference of %f \n",((float)time0)/CLOCKS_PER_SEC, max_diff_of_matrix);
+      printf("Simple triple loop (jki) algorithm went through %f seconds to complete running and the matrix had a  maximum difference of %.16f \n",((float)time0)/CLOCKS_PER_SEC, max_diff_of_matrix);
       
       
       
@@ -207,7 +207,7 @@
       } 
       
    
-      printf("Simple triple loop (kij) algorithm went through %f seconds to complete running and the matrix had a  maximum difference of %f \n",((float)time0)/CLOCKS_PER_SEC, max_diff_of_matrix);
+      printf("Simple triple loop (kij) algorithm went through %f seconds to complete running and the matrix had a  maximum difference of %.16f \n",((float)time0)/CLOCKS_PER_SEC, max_diff_of_matrix);
       
       
       
@@ -246,7 +246,7 @@ max_diff_of_matrix = 0.000000000000000;
           } 
       }
    
-      printf("Simple triple loop (kji) algorithm went through %f seconds to complete running and the matrix had a  maximum difference of %f \n",((float)time0)/CLOCKS_PER_SEC, max_diff_of_matrix);
+      printf("Simple triple loop (kji) algorithm went through %f seconds to complete running and the matrix had a  maximum difference of %.16f \n",((float)time0)/CLOCKS_PER_SEC, max_diff_of_matrix);
       
 
 return 0;

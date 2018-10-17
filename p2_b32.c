@@ -121,7 +121,7 @@ max_diff_of_matrix = 0.000000000000000;
           } 
       }
          
-         printf("Blocked ((B=%d) version (ikj) algorithm went through %f seconds to complete running and the matrix had a  maximum difference  of %f \n",B, ((float)time0)/CLOCKS_PER_SEC, max_diff_of_matrix);
+         printf("Blocked ((B=%d) version (ikj) algorithm went through %f seconds to complete running and the matrix had a  maximum difference  of %.16f \n",B, ((float)time0)/CLOCKS_PER_SEC, max_diff_of_matrix);
     
     
     
@@ -167,7 +167,7 @@ max_diff_of_matrix = 0.000000000000000;
       }
      
          
-         printf("Blocked (B=%d) version (jik) algorithm went through %f seconds to complete running and the matrix had a  maximum difference  of %f \n",B, ((float)time0)/CLOCKS_PER_SEC, max_diff_of_matrix);
+         printf("Blocked (B=%d) version (jik) algorithm went through %f seconds to complete running and the matrix had a  maximum difference  of %.16f \n",B, ((float)time0)/CLOCKS_PER_SEC, max_diff_of_matrix);
     
     
     
@@ -213,7 +213,7 @@ max_diff_of_matrix = 0.000000000000000;
       }
      
          
-         printf("Blocked ((B=%d))version (jki) algorithm went through %f seconds to complete running and the matrix had a  maximum difference  of %f \n",B,((float)time0)/CLOCKS_PER_SEC, max_diff_of_matrix);
+         printf("Blocked ((B=%d))version (jki) algorithm went through %f seconds to complete running and the matrix had a  maximum difference  of %.16f \n",B,((float)time0)/CLOCKS_PER_SEC, max_diff_of_matrix);
     
     
     
@@ -257,7 +257,7 @@ max_diff_of_matrix = 0.000000000000000;
       } 
      
          
-         printf("Blocked (B=%d) version (kij) algorithm went through %f seconds to complete running and the matrix had a  maximum difference  of %f \n",B,((float)time0)/CLOCKS_PER_SEC, max_diff_of_matrix);
+         printf("Blocked (B=%d) version (kij) algorithm went through %f seconds to complete running and the matrix had a  maximum difference  of %.16f \n",B,((float)time0)/CLOCKS_PER_SEC, max_diff_of_matrix);
     
     
     
@@ -299,7 +299,7 @@ max_diff_of_matrix = 0.000000000000000;
       }     
      
          
-         printf("Blocked (B=%d) version (kji) algorithm went through %f seconds to complete running and the matrix had a  maximum difference  of %f \n\n",B, ((float)time0)/CLOCKS_PER_SEC, max_diff_of_matrix);
+         printf("Blocked (B=%d) version (kji) algorithm went through %f seconds to complete running and the matrix had a  maximum difference  of %.16f \n\n",B, ((float)time0)/CLOCKS_PER_SEC, max_diff_of_matrix);
     
   
 
