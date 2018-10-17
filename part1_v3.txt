@@ -1,0 +1,68 @@
+Timing and Correctness Test:
+
+For n = 64
+:	Algorithm dgemm0 went through  (0.000000 seconds) to complete running . 
+	Algorithm dgemm1 went through  (0.000000 seconds) to complete running . 
+	Algorithm dgemm2 went through  (0.010000 seconds) to complete running . 
+	Algorithm dgemm3 went through  (0.000000 seconds) to complete running .
+
+Correctness Testing:
+Matrix C from dgemm0 and Matrix c1 from dgemm1 had a max difference of: 0.000000000000000
+Matrix C from dgemm0 and Matrix c2 from dgemm2 had a max difference of: 0.000000000174623
+Matrix C from dgemm0 and Matrix c3 from dgemm3 had a max difference of: 0.000000000000000
+
+For n = 128
+:	Algorithm dgemm0 went through  (0.030000 seconds) to complete running . 
+	Algorithm dgemm1 went through  (0.020000 seconds) to complete running . 
+	Algorithm dgemm2 went through  (0.000000 seconds) to complete running . 
+	Algorithm dgemm3 went through  (0.010000 seconds) to complete running .
+
+Correctness Testing:
+Matrix C from dgemm0 and Matrix c1 from dgemm1 had a max difference of: 0.000000000000000
+Matrix C from dgemm0 and Matrix c2 from dgemm2 had a max difference of: 0.000000000582077
+Matrix C from dgemm0 and Matrix c3 from dgemm3 had a max difference of: 0.000000000000000
+
+For n = 256
+:	Algorithm dgemm0 went through  (0.290000 seconds) to complete running . 
+	Algorithm dgemm1 went through  (0.160000 seconds) to complete running . 
+	Algorithm dgemm2 went through  (0.040000 seconds) to complete running . 
+	Algorithm dgemm3 went through  (0.040000 seconds) to complete running .
+
+Correctness Testing:
+Matrix C from dgemm0 and Matrix c1 from dgemm1 had a max difference of: 0.000000000000000
+Matrix C from dgemm0 and Matrix c2 from dgemm2 had a max difference of: 0.000000001513399
+Matrix C from dgemm0 and Matrix c3 from dgemm3 had a max difference of: 0.000000000000000
+
+For n = 512
+:	Algorithm dgemm0 went through  (3.310000 seconds) to complete running . 
+	Algorithm dgemm1 went through  (2.050000 seconds) to complete running . 
+	Algorithm dgemm2 went through  (0.560000 seconds) to complete running . 
+	Algorithm dgemm3 went through  (0.550000 seconds) to complete running .
+
+Correctness Testing:
+Matrix C from dgemm0 and Matrix c1 from dgemm1 had a max difference of: 0.000000000000000
+Matrix C from dgemm0 and Matrix c2 from dgemm2 had a max difference of: 0.000000005122274
+Matrix C from dgemm0 and Matrix c3 from dgemm3 had a max difference of: 0.000000000000000
+
+For n = 1024
+:	Algorithm dgemm0 went through  (33.540001 seconds) to complete running . 
+	Algorithm dgemm1 went through  (21.790001 seconds) to complete running . 
+	Algorithm dgemm2 went through  (5.980000 seconds) to complete running . 
+	Algorithm dgemm3 went through  (5.990000 seconds) to complete running .
+
+Correctness Testing:
+Matrix C from dgemm0 and Matrix c1 from dgemm1 had a max difference of: 0.000000000000000
+Matrix C from dgemm0 and Matrix c2 from dgemm2 had a max difference of: 0.000000015366822
+Matrix C from dgemm0 and Matrix c3 from dgemm3 had a max difference of: 0.000000000000000
+
+For n = 2048
+:	Algorithm dgemm0 went through  (461.070007 seconds) to complete running . 
+	Algorithm dgemm1 went through  (276.169983 seconds) to complete running . 
+	Algorithm dgemm2 went through  (69.169998 seconds) to complete running . 
+	Algorithm dgemm3 went through  (75.379997 seconds) to complete running .
+
+Correctness Testing:
+Matrix C from dgemm0 and Matrix c1 from dgemm1 had a max difference of: 0.000000000000000
+Matrix C from dgemm0 and Matrix c2 from dgemm2 had a max difference of: 0.000000043772161
+Matrix C from dgemm0 and Matrix c3 from dgemm3 had a max difference of: 0.000000000000000
+

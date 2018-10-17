@@ -1,0 +1,10 @@
+
+Blocked Version with differeing block size:
+
+Blocked (B=16) version (ijk) algorithm went through 128.309998 seconds to complete running and the matrix had a  maximum difference  of 20024210785.000000 
+Blocked ((B=16) version (ikj) algorithm went through 132.130005 seconds to complete running and the matrix had a  maximum difference  of 20024210785.000000 
+Blocked (B=16) version (jik) algorithm went through 132.410004 seconds to complete running and the matrix had a  maximum difference  of 20024210785.000000 
+Blocked ((B=16))version (jki) algorithm went through 133.860001 seconds to complete running and the matrix had a  maximum difference  of 20024210785.000000 
+Blocked (B=16) version (kij) algorithm went through 132.020004 seconds to complete running and the matrix had a  maximum difference  of 20024210785.000000 
+Blocked (B=16) version (kji) algorithm went through 147.270004 seconds to complete running and the matrix had a  maximum difference  of 20024210785.000000 
+

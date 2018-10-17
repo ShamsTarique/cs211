@@ -1,0 +1,18 @@
+Simple tripe loop algorithm with n= 2048:
+
+Simple triple loop (ijk) algorithm went through 272.310028 seconds to complete running
+Simple triple loop (ikj) algorithm went through 81.169998 seconds to complete running and the matrix had a  maximum difference of 0.0000000000000000 
+Simple triple loop (jik) algorithm went through 276.320007 seconds to complete running and the matrix had a  maximum difference of 0.0000000000000000 
+Simple triple loop (jki) algorithm went through 419.619995 seconds to complete running and the matrix had a  maximum difference of 0.0000000000000000 
+Simple triple loop (kij) algorithm went through 89.540001 seconds to complete running and the matrix had a  maximum difference of 0.0000000000000000 
+Simple triple loop (kji) algorithm went through 397.700012 seconds to complete running and the matrix had a  maximum difference of 0.0000000000000000 
+
+Blocked Version with differeing block size:
+
+Blocked (B=64) version (ijk) algorithm went through 119.199997 seconds to complete running and the matrix had a  maximum difference  of 0.0000000000000000 
+Blocked ((B=64) version (ikj) algorithm went through 111.000000 seconds to complete running and the matrix had a  maximum difference  of 0.0000000000000000 
+Blocked (B=64) version (jik) algorithm went through 120.050003 seconds to complete running and the matrix had a  maximum difference  of 0.0000000000000000 
+Blocked ((B=64))version (jki) algorithm went through 126.870003 seconds to complete running and the matrix had a  maximum difference  of 0.0000000000000000 
+Blocked (B=64) version (kij) algorithm went through 114.680000 seconds to complete running and the matrix had a  maximum difference  of 0.0000000000000000 
+Blocked (B=64) version (kji) algorithm went through 130.449997 seconds to complete running and the matrix had a  maximum difference  of 0.0000000000000000 
+

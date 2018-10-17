@@ -1,0 +1,2 @@
+dgemm0 went through 0 clicks (0.000000 seconds) to complete running and the matrix had a  maximum difference  of 124595.354698 
+dgemm1 went through 0 clicks (0.000000 seconds) to complete running and the matrix had a  maximum difference  of 94430302.055731 

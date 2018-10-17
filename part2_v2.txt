@@ -1,0 +1,1 @@
+slurmstepd: error: *** JOB 6300 ON node08 CANCELLED AT 2018-10-15T11:40:37 ***

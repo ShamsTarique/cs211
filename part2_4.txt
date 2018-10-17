@@ -1,0 +1,1 @@
+Blocked (B=256) version (ijk) algorithm went through 267.010010 seconds to complete running

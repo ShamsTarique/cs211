@@ -1,0 +1,6 @@
+set backspace=indent,eol,start
+set hlsearch
+set number
+set ruler
+set statusline=[%20n]\%f\%(\[%M%R%H]%)%=\%4l,%02c%2V\%P%*
+set laststatus=2

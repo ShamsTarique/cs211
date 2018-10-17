@@ -1,0 +1,38 @@
+Timing and Correctness Test:
+
+For n = 64:
+	Algorithm dgemm0 went through  (0.000000 seconds) to complete running and the matrix had a  maximum difference  of 124595.354698. 
+	Algorithm dgemm1 went through  (0.000000 seconds) to complete running and the matrix had a  maximum difference  of 124595.354698. 
+	Algorithm dgemm2 went through  (0.000000 seconds) to complete running and the matrix had a  maximum difference  of 124595.354698. 
+	Algorithm dgemm3 went through  (0.000000 seconds) to complete running and the matrix had a  maximum difference  of 124595.354698.
+
+For n = 128:
+	Algorithm dgemm0 went through  (0.040000 seconds) to complete running and the matrix had a  maximum difference  of 310784.306373. 
+	Algorithm dgemm1 went through  (0.010000 seconds) to complete running and the matrix had a  maximum difference  of 310784.306373. 
+	Algorithm dgemm2 went through  (0.010000 seconds) to complete running and the matrix had a  maximum difference  of 310784.306373. 
+	Algorithm dgemm3 went through  (0.000000 seconds) to complete running and the matrix had a  maximum difference  of 310784.306373.
+
+For n = 256:
+	Algorithm dgemm0 went through  (0.290000 seconds) to complete running and the matrix had a  maximum difference  of 680834.809247. 
+	Algorithm dgemm1 went through  (0.150000 seconds) to complete running and the matrix had a  maximum difference  of 680834.809247. 
+	Algorithm dgemm2 went through  (0.040000 seconds) to complete running and the matrix had a  maximum difference  of 680834.809247. 
+	Algorithm dgemm3 went through  (0.040000 seconds) to complete running and the matrix had a  maximum difference  of 680834.809247.
+
+For n = 512:
+	Algorithm dgemm0 went through  (3.420000 seconds) to complete running and the matrix had a  maximum difference  of 1398249.672707. 
+	Algorithm dgemm1 went through  (2.260000 seconds) to complete running and the matrix had a  maximum difference  of 1398249.672707. 
+	Algorithm dgemm2 went through  (0.570000 seconds) to complete running and the matrix had a  maximum difference  of 1398249.672707. 
+	Algorithm dgemm3 went through  (0.570000 seconds) to complete running and the matrix had a  maximum difference  of 1398249.672707.
+
+For n = 1024:
+	Algorithm dgemm0 went through  (35.040001 seconds) to complete running and the matrix had a  maximum difference  of 2796479.554687. 
+	Algorithm dgemm1 went through  (22.740000 seconds) to complete running and the matrix had a  maximum difference  of 2796479.554687. 
+	Algorithm dgemm2 went through  (5.820000 seconds) to complete running and the matrix had a  maximum difference  of 2796479.554687. 
+	Algorithm dgemm3 went through  (5.940000 seconds) to complete running and the matrix had a  maximum difference  of 2796479.554687.
+
+For n = 2048:
+	Algorithm dgemm0 went through  (444.179993 seconds) to complete running and the matrix had a  maximum difference  of 5522085.915027. 
+	Algorithm dgemm1 went through  (277.959991 seconds) to complete running and the matrix had a  maximum difference  of 5522085.915027. 
+	Algorithm dgemm2 went through  (70.209999 seconds) to complete running and the matrix had a  maximum difference  of 5522085.915027. 
+	Algorithm dgemm3 went through  (71.019997 seconds) to complete running and the matrix had a  maximum difference  of 5522085.915027.
+

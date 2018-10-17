@@ -1,0 +1,1 @@
+<< Using pow function, it took 0.000000 seconds 
